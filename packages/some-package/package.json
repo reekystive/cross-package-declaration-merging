@@ -1,0 +1,11 @@
+{
+  "name": "some-package",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./custom-path": "./src/foo.ts"
+  },
+  "dependencies": {
+    "typescript": "5.8.3"
+  }
+}
