@@ -1,0 +1,10 @@
+{
+  "name": "cross-package-declaration-merging",
+  "version": "0.0.1",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reekystive/cross-package-declaration-merging"
+  },
+  "license": "MIT"
+}
